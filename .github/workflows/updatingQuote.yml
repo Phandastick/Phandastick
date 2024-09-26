@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@0.1.2
         with: 
-          OPTION: both 
+          OPTION: quote
